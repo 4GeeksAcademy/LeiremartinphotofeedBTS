@@ -1,9 +1,12 @@
 .logout {
     color: red !important;
 }
-
-.navbar-brand:hover i {
+nav-item {
+  color: black !important;
+}
+.nav-item:hover i {
     color: rgba(6, 6, 136, 0.552); 
   }
-  .navbar-brand:active i {
-    color: rgb(82, 12, 245); 
+.nav-item:active i {
+    color: rgb(82, 12, 245);
+} 
